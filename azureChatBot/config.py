@@ -8,5 +8,5 @@ class DefaultConfig:
     """ Bot Configuration """
 
     PORT = 3978
-    APP_ID = '8d054fa1-23ec-43d1-bb8a-4dd80cdccc12'
-    APP_PASSWORD = '2O-XN-Bybx6-DF_Xh805N.moi0.SPZ5b8c'
+    APP_ID = 'J95NOu~6ABhas3OsD.q7v_knZTn.2N9edp'
+    APP_PASSWORD = '76a05b2d-3ce3-4975-aa49-afa904effae5'
